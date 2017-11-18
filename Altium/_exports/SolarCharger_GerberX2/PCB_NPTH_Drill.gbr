@@ -1,0 +1,9 @@
+G04 Layer_Color=0*
+%FSLAX45Y45*%
+%MOMM*%
+%TF.FileFunction,NonPlated,1,2,NPTH,Drill*%
+%TF.Part,Single*%
+G01*
+G75*
+%TF.MD5,7f7f7d8af08259aa8771fccfd73a24d7*%
+M02*
